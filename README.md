@@ -11,3 +11,6 @@ So now I bought the controller and plan to do a link to my application OMI to be
 Feel free to ping me on this project in issue or discussion if you have question or want to participate.
 
 (Start today 2022 12 07).
+
+Apparently there are a need for that since years ;)
+- https://www.reddit.com/r/OculusQuest/comments/hsav3g/can_i_use_my_quest_controllers_natively_with_my_pc/
